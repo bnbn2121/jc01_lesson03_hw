@@ -10,9 +10,9 @@ public class Task03 {
 		double x1, y1;
 		double x2, y2;
 		double x3, y3;
-		double side12; 		// расстояние между точками №1 и №2
-		double side23; 		// расстояние между точками №2 и №3
-		double side31; 		// расстояние между точками №3 и №1
+		double side12;
+		double side23;
+		double side31;
 		double perimeter;
 		double semiperimeter;
 		double area;
